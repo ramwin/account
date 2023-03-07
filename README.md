@@ -7,9 +7,8 @@ You should clone this project in your project so that you can change the source 
 # Usage
 1. clone project
 ```
-git clone git@github.com:ramwin/django-account.git /tmp/django-account
 cd <your project directory>
-mv /tmp/django-account/account ./  # mv the account app to your project
+git clone git@github.com:ramwin/account.git
 ```
 
 2. change settings
